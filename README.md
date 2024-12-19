@@ -3,4 +3,4 @@
 Este proyecto se encarga de manejar los planes de la liga de la justicia
 
 
-## estos cambios sojn news
+## estos cambios sojn news desde gh
